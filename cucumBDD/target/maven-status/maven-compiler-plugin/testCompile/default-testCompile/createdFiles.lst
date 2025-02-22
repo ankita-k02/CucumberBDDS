@@ -1,0 +1,4 @@
+Pages\LoginPages.class
+BDD\Cucumber\TestRunner.class
+Pages\RecruitmentPage.class
+StepDefinations\LoginPagesStepDef.class
