@@ -40,3 +40,5 @@ Feature: Title of your feature
     Examples: 
       | username      | password     | fname | lname | zipcode |
       | standard_user | secret_sauce | Anki  | T     |   60195 |
+
+     Scenario:  
